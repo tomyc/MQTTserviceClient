@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="172555723531650" >
+
+    <task
+        name="javac"
+        duration="9602" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1551" />
+    <task
+        name="verifier"
+        duration="323" />
+
+    <artifact
+        location="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="172555723531650" >
+        <artifact
+            location="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

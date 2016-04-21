@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_e44ba2ec1ed2e7da1995a45851b98860827579fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\libs\org.eclipse.paho.client.mqttv3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4e7064b9cd19e5127cb730fe1493e3dd3a93e17">
+        <dex dex="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.eclipse.paho.client.mqttv3_5cefee88f10d9d3fbf4aa2c845e2d3d6e148cb77\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_e95fe3ac3600a47385a6f722b7b1fbb75b259f01\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_1140a9231547237c39996fbb625642a1265d25a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4bfbc566383e2278c209f35c6c991fb9f6f9fa36">
+        <dex dex="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a16a2d47de45f180af96b85c69e601b56956a5e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_933fde95f7394d310881307cab566169fac672b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ba8a74d47b9a2f1cfc3b03b3cfc54d0c2c97c47f">
+        <dex dex="C:\Users\Tomasz\AndroidStudioProjects\MQTTserviceClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_45179645a27c124a8b81bfa7ba37c464911735e8\classes.dex" />
+    </item>
+
+</items>
